@@ -1,0 +1,1013 @@
+{
+  "student": {
+    "id": "AURA-2026-CS104",
+    "name": "Aarav Sharma",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+    "email": "aarav.cs26@auracollege.edu",
+    "phone": "+91 98765 43210",
+    "department": "Computer Science & Engineering",
+    "degree": "B.Tech (Honors)",
+    "year": "3rd Year",
+    "semester": "Semester 6",
+    "batch": "2023 - 2027",
+    "rollNo": "23CSE104",
+    "bloodGroup": "O+",
+    "dob": "2004-08-14",
+    "emergencyContact": "+91 98111 22334 (Father)",
+    "advisor": "Dr. Sunita Ramanathan (Cabin 402, IT Block)",
+    "hostel": {
+      "enrolled": true,
+      "block": "Aryabhatta Hostel (Block C)",
+      "room": "Room 304 (Twin Sharing)",
+      "roommate": "Rohan Varma (Roll # 23CSE112)",
+      "warden": "Prof. K. Venkatesh (+91 94441 55667)"
+    },
+    "transport": {
+      "enrolled": true,
+      "passId": "AURA-BUS-2026-089",
+      "routeNumber": "Route 04",
+      "routeName": "Metro Interchange - Campus North Gate",
+      "pickupStop": "Sector 18 Metro Plaza",
+      "pickupTime": "07:45 AM",
+      "dropTime": "05:15 PM",
+      "busPlate": "DL-01-ED-7821",
+      "driverName": "Mr. Harish Chandra",
+      "driverPhone": "+91 98990 11223",
+      "validUntil": "June 2027",
+      "status": "Active"
+    },
+    "cgpa": 8.65,
+    "creditsCompleted": 112,
+    "totalCredits": 160
+  },
+  "products": [
+    {
+      "id": "prod-1",
+      "title": "Data Structures & Algorithms in Java (Core Textbook)",
+      "author": "Robert Lafore & Michael T. Goodrich",
+      "category": "Textbooks",
+      "department": "Computer Science",
+      "price": 649,
+      "originalPrice": 899,
+      "discountPercent": 28,
+      "rating": 4.9,
+      "reviewsCount": 142,
+      "inStock": true,
+      "stockCount": 24,
+      "condition": "Brand New",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80",
+      "description": "Standard prescribed university textbook covering Stacks, Queues, Red-Black Trees, Graphs, Dynamic Programming and Big-O Analysis with practice lab questions.",
+      "badge": "Bestseller",
+      "tags": [
+        "Prescribed",
+        "CSE",
+        "Semester 3-6"
+      ]
+    },
+    {
+      "id": "prod-2",
+      "title": "GATE CSE 2026: 12-Year Chapterwise Solved Papers & Guide",
+      "author": "Made Easy Editorial Board",
+      "category": "Study Guides",
+      "department": "Competitive Exams",
+      "price": 520,
+      "originalPrice": 750,
+      "discountPercent": 31,
+      "rating": 4.8,
+      "reviewsCount": 98,
+      "inStock": true,
+      "stockCount": 15,
+      "condition": "Brand New",
+      "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=600&q=80",
+      "description": "Comprehensive previous year question bank with step-by-step video solution QR codes, mock test keys and formula cheat sheets.",
+      "badge": "Exam Essential",
+      "tags": [
+        "GATE",
+        "Preparation",
+        "Guide"
+      ]
+    },
+    {
+      "id": "prod-3",
+      "title": "Casio FX-991EX ClassWiz Advanced Scientific Calculator",
+      "author": "Casio Japan",
+      "category": "Electronics",
+      "department": "All Engineering",
+      "price": 1399,
+      "originalPrice": 1695,
+      "discountPercent": 17,
+      "rating": 5,
+      "reviewsCount": 312,
+      "inStock": true,
+      "stockCount": 40,
+      "condition": "Brand New - 3 Yr Warranty",
+      "image": "https://images.unsplash.com/photo-1594980596870-8aa52a78d8cd?auto=format&fit=crop&w=600&q=80",
+      "description": "High-resolution natural textbook display with 552 functions including matrix calculation, spreadsheets, polynomial solvers and QR code generation for graphing.",
+      "badge": "Must Have",
+      "tags": [
+        "Calculator",
+        "Exam Approved",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "prod-4",
+      "title": "Pilot G2 Premium Gel Roller Pens (0.7mm Fine, Pack of 6)",
+      "author": "Pilot Pen Corp",
+      "category": "Stationery",
+      "department": "All Students",
+      "price": 240,
+      "originalPrice": 300,
+      "discountPercent": 20,
+      "rating": 4.9,
+      "reviewsCount": 220,
+      "inStock": true,
+      "stockCount": 85,
+      "condition": "New Pack",
+      "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+      "description": "Ultra-smooth black and blue archival-safe ink gel pens with contoured rubber grip. Ideal for long 3-hour semester theory examinations.",
+      "badge": "Popular",
+      "tags": [
+        "Pens",
+        "Writing",
+        "Exam Special"
+      ]
+    },
+    {
+      "id": "prod-5",
+      "title": "Rotring 500 Mechanical Drafting Pencil (0.5mm Metal Body)",
+      "author": "Rotring Germany",
+      "category": "Stationery",
+      "department": "Mechanical & Civil",
+      "price": 480,
+      "originalPrice": 650,
+      "discountPercent": 26,
+      "rating": 4.9,
+      "reviewsCount": 76,
+      "inStock": true,
+      "stockCount": 19,
+      "condition": "Brand New",
+      "image": "https://images.unsplash.com/photo-1585336261026-70e176229983?auto=format&fit=crop&w=600&q=80",
+      "description": "Precision knurled grip mechanical pencil with brass mechanism for engineering drawing, CAD sketches, circuit diagrams and mathematics.",
+      "badge": "Drafting",
+      "tags": [
+        "Pencil",
+        "Drawing",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "prod-6",
+      "title": "Medical & Lab White Apron / Lab Coat (Pure Cotton, Unisex)",
+      "author": "Aura Campus Apparel",
+      "category": "Lab Equipment",
+      "department": "Chemistry & Biotech",
+      "price": 399,
+      "originalPrice": 550,
+      "discountPercent": 27,
+      "rating": 4.7,
+      "reviewsCount": 164,
+      "inStock": true,
+      "stockCount": 50,
+      "condition": "Fresh Fabric",
+      "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&w=600&q=80",
+      "description": "Durable 100% breathable drill cotton coat featuring embroidered college emblem, 3 deep utility pockets for spatulas, pens and calculators.",
+      "badge": "Lab Mandatory",
+      "tags": [
+        "Lab Coat",
+        "Uniform",
+        "Chemistry"
+      ]
+    },
+    {
+      "id": "prod-7",
+      "title": "Operating System Concepts (Silberschatz Dinosaur Book)",
+      "author": "Abraham Silberschatz, Peter B. Galvin",
+      "category": "Textbooks",
+      "department": "Computer Science",
+      "price": 580,
+      "originalPrice": 850,
+      "discountPercent": 32,
+      "rating": 4.8,
+      "reviewsCount": 110,
+      "inStock": true,
+      "stockCount": 12,
+      "condition": "Brand New",
+      "image": "https://images.unsplash.com/photo-1532012164546-f432f2e37773?auto=format&fit=crop&w=600&q=80",
+      "description": "10th Edition. Covers Processes, Threads, CPU Scheduling, Deadlocks, Memory Virtualization, File Systems and Linux Kernel internals.",
+      "badge": "Prescribed",
+      "tags": [
+        "OS",
+        "Textbook",
+        "Semester 4-6"
+      ]
+    },
+    {
+      "id": "prod-8",
+      "title": "Complete Electronics & IoT Hardware Starter Breadboard Kit",
+      "author": "Aura Tech Labs",
+      "category": "Lab Equipment",
+      "department": "ECE & CSE",
+      "price": 1150,
+      "originalPrice": 1599,
+      "discountPercent": 28,
+      "rating": 4.9,
+      "reviewsCount": 63,
+      "inStock": true,
+      "stockCount": 22,
+      "condition": "Complete Box",
+      "image": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?auto=format&fit=crop&w=600&q=80",
+      "description": "Includes Arduino Uno R3 compatible board, solderless 830-tie point breadboard, jumper wire bundle, 50 assorted resistors, LEDs, ultrasonic sensors, and LCD display.",
+      "badge": "Project Kit",
+      "tags": [
+        "Arduino",
+        "Hardware",
+        "Lab Kit"
+      ]
+    },
+    {
+      "id": "prod-9",
+      "title": "Staedtler Mars Master Engineering Geometry Compass Set",
+      "author": "Staedtler",
+      "category": "Stationery",
+      "department": "Civil & Mechanical",
+      "price": 360,
+      "originalPrice": 480,
+      "discountPercent": 25,
+      "rating": 4.7,
+      "reviewsCount": 88,
+      "inStock": true,
+      "stockCount": 30,
+      "condition": "Metal Cased",
+      "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=600&q=80",
+      "description": "Heavy duty quick-adjusting spindle compass with lead box, extension bar, technical drawing pen adapter and spare needle points.",
+      "badge": "Drawing",
+      "tags": [
+        "Compass",
+        "Geometry",
+        "Stationery"
+      ]
+    },
+    {
+      "id": "prod-10",
+      "title": "Classmate Pulse 6-Subject Spiral Bound Notebook (300 Pages)",
+      "author": "ITC Classmate",
+      "category": "Stationery",
+      "department": "All Students",
+      "price": 180,
+      "originalPrice": 225,
+      "discountPercent": 20,
+      "rating": 4.8,
+      "reviewsCount": 275,
+      "inStock": true,
+      "stockCount": 110,
+      "condition": "Brand New",
+      "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=600&q=80",
+      "description": "Single ruled, micro-perforated sheets with colorful index divider tabs and waterproof poly-cover for full semester lecture notes.",
+      "badge": "Daily Need",
+      "tags": [
+        "Notebook",
+        "Stationery",
+        "Lecture Notes"
+      ]
+    },
+    {
+      "id": "prod-11",
+      "title": "Discrete Mathematics & Its Applications (8th Global Ed.)",
+      "author": "Kenneth H. Rosen",
+      "category": "Textbooks",
+      "department": "Computer Science & IT",
+      "price": 610,
+      "originalPrice": 875,
+      "discountPercent": 30,
+      "rating": 4.9,
+      "reviewsCount": 94,
+      "inStock": true,
+      "stockCount": 14,
+      "condition": "Brand New",
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&w=600&q=80",
+      "description": "Fundamental text for Logic, Set Theory, Combinatorics, Graph Theory, Trees and Boolean Algebra required for Computer Science.",
+      "badge": "Recommended",
+      "tags": [
+        "Maths",
+        "Discrete",
+        "Rosen"
+      ]
+    },
+    {
+      "id": "prod-12",
+      "title": "Database Management Systems (Ramakrishnan - 2nd Hand Copy)",
+      "author": "Raghu Ramakrishnan & Johannes Gehrke",
+      "category": "Peer-to-Peer Store",
+      "department": "Computer Science",
+      "price": 290,
+      "originalPrice": 799,
+      "discountPercent": 64,
+      "rating": 4.6,
+      "reviewsCount": 18,
+      "inStock": true,
+      "stockCount": 2,
+      "condition": "Good Used (Highlighted notes included)",
+      "seller": "Karan Patel (Final Year CSE)",
+      "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=600&q=80",
+      "description": "Pre-loved copy in good condition. Has highlighted exam formulas and notes from Prof. Mehta's DBMS lectures. Available for campus handoff at Central Canteen.",
+      "badge": "Student Resale",
+      "tags": [
+        "Used Book",
+        "DBMS",
+        "Student Deal"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "AURA-ORD-90214",
+      "date": "2026-10-18T14:32:00.000Z",
+      "items": [
+        {
+          "id": "prod-4",
+          "title": "Pilot G2 Premium Gel Roller Pens (Pack of 6)",
+          "quantity": 2,
+          "price": 240
+        },
+        {
+          "id": "prod-10",
+          "title": "Classmate Pulse 6-Subject Spiral Bound Notebook",
+          "quantity": 2,
+          "price": 180
+        }
+      ],
+      "totalAmount": 840,
+      "discountAmount": 100,
+      "finalPaid": 740,
+      "paymentMode": "UPI / GooglePay",
+      "deliveryType": "Hostel Delivery (Aryabhatta Block C - Room 304)",
+      "status": "Delivered",
+      "deliveryDate": "2026-10-19T10:15:00.000Z",
+      "invoiceUrl": "#invoice-90214"
+    },
+    {
+      "orderId": "AURA-ORD-90180",
+      "date": "2026-09-28T09:10:00.000Z",
+      "items": [
+        {
+          "id": "prod-3",
+          "title": "Casio FX-991EX ClassWiz Advanced Scientific Calculator",
+          "quantity": 1,
+          "price": 1399
+        }
+      ],
+      "totalAmount": 1399,
+      "discountAmount": 150,
+      "finalPaid": 1249,
+      "paymentMode": "Student Wallet / Campus Card",
+      "deliveryType": "Campus Smart Locker #14 (Library Basement)",
+      "status": "Delivered",
+      "deliveryDate": "2026-09-28T16:40:00.000Z",
+      "invoiceUrl": "#invoice-90180"
+    }
+  ],
+  "fees": {
+    "studentId": "AURA-2026-CS104",
+    "academicYear": "2026 - 2027",
+    "semester": "Semester 6",
+    "totalFee": 68500,
+    "paidAmount": 52000,
+    "pendingDue": 16500,
+    "dueDate": "2026-11-15",
+    "paymentStatus": "Partial Paid",
+    "lateFeePerDay": 50,
+    "breakdown": [
+      {
+        "id": "f-1",
+        "head": "Tuition Fee",
+        "amount": 42000,
+        "paid": 42000,
+        "due": 0,
+        "status": "Paid"
+      },
+      {
+        "id": "f-2",
+        "head": "Specialized Laboratory & Computing Infrastructure",
+        "amount": 9500,
+        "paid": 7000,
+        "due": 2500,
+        "status": "Partial"
+      },
+      {
+        "id": "f-3",
+        "head": "Semester Examination & Assessment Fee",
+        "amount": 3500,
+        "paid": 3000,
+        "due": 500,
+        "status": "Partial"
+      },
+      {
+        "id": "f-4",
+        "head": "Campus Shuttle Bus Fleet (Route 04)",
+        "amount": 8500,
+        "paid": 0,
+        "due": 8500,
+        "status": "Unpaid"
+      },
+      {
+        "id": "f-5",
+        "head": "Central Digital Library & IEEE Access",
+        "amount": 3000,
+        "paid": 0,
+        "due": 3000,
+        "status": "Unpaid"
+      },
+      {
+        "id": "f-6",
+        "head": "Student Welfare, Clubs & Medical Fund",
+        "amount": 2000,
+        "paid": 0,
+        "due": 2000,
+        "status": "Unpaid"
+      }
+    ],
+    "transactions": [
+      {
+        "txnId": "TXN-AURA-887412",
+        "date": "2026-08-10T11:20:00.000Z",
+        "amount": 45000,
+        "mode": "Net Banking (HDFC Bank)",
+        "purpose": "Tuition & Partial Lab Fee (Installment 1)",
+        "receiptNo": "REC-2026-0814",
+        "status": "Success"
+      },
+      {
+        "txnId": "TXN-AURA-899120",
+        "date": "2026-09-05T15:45:00.000Z",
+        "amount": 7000,
+        "mode": "UPI (Google Pay)",
+        "purpose": "Partial Lab & Exam Fee (Installment 2)",
+        "receiptNo": "REC-2026-0922",
+        "status": "Success"
+      }
+    ],
+    "scholarship": {
+      "name": "Merit Academic Excellence Grant",
+      "awardedAmount": 15000,
+      "appliedTo": "Semester 5 & 6 Tuition",
+      "eligibilityStatus": "Maintained (CGPA > 8.5)"
+    }
+  },
+  "transport": {
+    "activeFleetCount": 14,
+    "studentRoute": {
+      "routeNumber": "Route 04",
+      "routeName": "City Metro Interchange - Tech Campus",
+      "busNumber": "DL-01-ED-7821",
+      "driver": {
+        "name": "Harish Chandra",
+        "phone": "+91 98990 11223",
+        "experience": "12 Years",
+        "rating": 4.8
+      },
+      "currentStopIndex": 2,
+      "currentSpeedKmH": 34,
+      "liveStatus": "On Route (Approaching Sector 18)",
+      "totalCapacity": 48,
+      "occupiedSeats": 32,
+      "availableSeats": 16,
+      "studentBoardingStop": "Sector 18 Metro Plaza",
+      "scheduledPickup": "07:45 AM",
+      "etaToStudentStopMin": 7,
+      "stops": [
+        {
+          "name": "Central Metro Depot (Terminal)",
+          "time": "07:15 AM",
+          "passed": true,
+          "lat": 28.5355,
+          "lng": 77.391
+        },
+        {
+          "name": "Sector 15 City Park",
+          "time": "07:30 AM",
+          "passed": true,
+          "lat": 28.541,
+          "lng": 77.385
+        },
+        {
+          "name": "Sector 18 Metro Plaza (Your Stop)",
+          "time": "07:45 AM",
+          "passed": false,
+          "isUserStop": true,
+          "lat": 28.548,
+          "lng": 77.378
+        },
+        {
+          "name": "Botanical Garden Underpass",
+          "time": "08:05 AM",
+          "passed": false,
+          "lat": 28.556,
+          "lng": 77.369
+        },
+        {
+          "name": "Sector 62 IT Expressway",
+          "time": "08:25 AM",
+          "passed": false,
+          "lat": 28.568,
+          "lng": 77.358
+        },
+        {
+          "name": "Aura College North Gate (Arrival)",
+          "time": "08:40 AM",
+          "passed": false,
+          "lat": 28.579,
+          "lng": 77.345
+        }
+      ]
+    },
+    "allRoutes": [
+      {
+        "route": "Route 01",
+        "name": "South City Ring Road - Main Gate",
+        "busNo": "DL-01-AB-1011",
+        "driver": "M. Ramakrishnan",
+        "driverPhone": "+91 98101 22331",
+        "timings": "07:00 AM - 05:30 PM",
+        "stopsCount": 8,
+        "status": "Active"
+      },
+      {
+        "route": "Route 02",
+        "name": "Green Park - University Road",
+        "busNo": "DL-01-AB-1012",
+        "driver": "Satnam Singh",
+        "driverPhone": "+91 98102 33442",
+        "timings": "07:10 AM - 05:30 PM",
+        "stopsCount": 6,
+        "status": "Active"
+      },
+      {
+        "route": "Route 03",
+        "name": "Airport Express - Engineering Block",
+        "busNo": "DL-01-CD-4519",
+        "driver": "Rajesh Tyagi",
+        "driverPhone": "+91 98103 44553",
+        "timings": "07:20 AM - 05:30 PM",
+        "stopsCount": 7,
+        "status": "Active"
+      },
+      {
+        "route": "Route 04",
+        "name": "Metro Interchange - Campus North Gate",
+        "busNo": "DL-01-ED-7821",
+        "driver": "Harish Chandra",
+        "driverPhone": "+91 98990 11223",
+        "timings": "07:15 AM - 05:15 PM",
+        "stopsCount": 6,
+        "status": "Active (Your Assigned Route)"
+      },
+      {
+        "route": "Route 05",
+        "name": "Old City Market - Biotech Complex",
+        "busNo": "DL-01-ED-8822",
+        "driver": "Dinesh Rawat",
+        "driverPhone": "+91 98105 66775",
+        "timings": "07:25 AM - 05:30 PM",
+        "stopsCount": 9,
+        "status": "Active"
+      },
+      {
+        "route": "Route 06",
+        "name": "Suburban Railway Terminal - Sports Arena",
+        "busNo": "DL-01-GH-3390",
+        "driver": "Vijay Kumar",
+        "driverPhone": "+91 98106 77886",
+        "timings": "07:05 AM - 05:30 PM",
+        "stopsCount": 11,
+        "status": "Maintenance"
+      }
+    ],
+    "passDetails": {
+      "passNumber": "AURA-BUS-PASS-2026-681",
+      "holderName": "Aarav Sharma",
+      "rollNo": "23CSE104",
+      "route": "Route 04 (Metro Interchange)",
+      "validFrom": "01 Aug 2026",
+      "validThrough": "30 Jun 2027",
+      "qrCodeData": "AURA_TRANSPORT_VERIFIED_23CSE104_ROUTE04_EXP2027",
+      "status": "Verified & Active"
+    }
+  },
+  "academics": {
+    "semester": "Semester 6",
+    "overallAttendancePercentage": 86.4,
+    "minimumRequirementPercentage": 75,
+    "classesAttended": 216,
+    "totalClassesConducted": 250,
+    "subjects": [
+      {
+        "code": "CS601",
+        "name": "Design & Analysis of Algorithms",
+        "faculty": "Dr. K. S. Raman",
+        "attended": 42,
+        "total": 45,
+        "percentage": 93.3,
+        "status": "Safe",
+        "credits": 4,
+        "gradeEarned": "A+"
+      },
+      {
+        "code": "CS602",
+        "name": "Database Management Systems",
+        "faculty": "Prof. Priya Narayan",
+        "attended": 38,
+        "total": 42,
+        "percentage": 90.5,
+        "status": "Safe",
+        "credits": 4,
+        "gradeEarned": "A"
+      },
+      {
+        "code": "CS603",
+        "name": "Operating Systems Internals",
+        "faculty": "Dr. Arvind Saxena",
+        "attended": 31,
+        "total": 44,
+        "percentage": 70.5,
+        "status": "Warning",
+        "warningNote": "Shortfall of 4.5% below minimum 75%. Attend next 6 consecutive classes to recover.",
+        "credits": 4,
+        "gradeEarned": "B+"
+      },
+      {
+        "code": "CS604",
+        "name": "Machine Learning & Neural Nets",
+        "faculty": "Dr. Sunita Ramanathan",
+        "attended": 44,
+        "total": 46,
+        "percentage": 95.7,
+        "status": "Safe",
+        "credits": 4,
+        "gradeEarned": "O (Outstanding)"
+      },
+      {
+        "code": "CS605",
+        "name": "Computer Networks & Security",
+        "faculty": "Prof. Vikram Malhotra",
+        "attended": 35,
+        "total": 41,
+        "percentage": 85.4,
+        "status": "Safe",
+        "credits": 3,
+        "gradeEarned": "A"
+      },
+      {
+        "code": "CS608P",
+        "name": "Cloud & DevOps Lab",
+        "faculty": "Er. Tanya Kapoor",
+        "attended": 26,
+        "total": 32,
+        "percentage": 81.3,
+        "status": "Safe",
+        "credits": 2,
+        "gradeEarned": "A+"
+      }
+    ],
+    "timetable": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "time": "09:00 - 10:00 AM",
+            "subject": "Design & Analysis of Algorithms",
+            "room": "LT-201",
+            "faculty": "Dr. Raman",
+            "type": "Lecture"
+          },
+          {
+            "time": "10:15 - 11:15 AM",
+            "subject": "Database Management Systems",
+            "room": "LT-201",
+            "faculty": "Prof. Priya",
+            "type": "Lecture"
+          },
+          {
+            "time": "11:30 - 01:00 PM",
+            "subject": "Operating Systems Internals",
+            "room": "LT-204",
+            "faculty": "Dr. Saxena",
+            "type": "Lecture"
+          },
+          {
+            "time": "02:00 - 04:30 PM",
+            "subject": "Cloud & DevOps Lab (Batch A)",
+            "room": "Lab 04, IT Block",
+            "faculty": "Er. Tanya",
+            "type": "Lab"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "time": "09:00 - 10:00 AM",
+            "subject": "Machine Learning & Neural Nets",
+            "room": "LT-203",
+            "faculty": "Dr. Sunita",
+            "type": "Lecture"
+          },
+          {
+            "time": "10:15 - 11:15 AM",
+            "subject": "Computer Networks & Security",
+            "room": "LT-201",
+            "faculty": "Prof. Vikram",
+            "type": "Lecture"
+          },
+          {
+            "time": "11:30 - 01:00 PM",
+            "subject": "Design & Analysis of Algorithms",
+            "room": "LT-201",
+            "faculty": "Dr. Raman",
+            "type": "Tutorial"
+          },
+          {
+            "time": "02:00 - 04:00 PM",
+            "subject": "Library Research / Self Study",
+            "room": "Central Digital Library",
+            "faculty": "Staff",
+            "type": "Library"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "time": "09:00 - 10:00 AM",
+            "subject": "Database Management Systems",
+            "room": "LT-201",
+            "faculty": "Prof. Priya",
+            "type": "Lecture"
+          },
+          {
+            "time": "10:15 - 11:15 AM",
+            "subject": "Operating Systems Internals",
+            "room": "LT-204",
+            "faculty": "Dr. Saxena",
+            "type": "Lecture"
+          },
+          {
+            "time": "11:30 - 01:00 PM",
+            "subject": "Machine Learning & Neural Nets",
+            "room": "LT-203",
+            "faculty": "Dr. Sunita",
+            "type": "Lecture"
+          },
+          {
+            "time": "02:00 - 05:00 PM",
+            "subject": "DBMS & SQL Capstone Lab",
+            "room": "Software Lab 2",
+            "faculty": "Prof. Priya",
+            "type": "Lab"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "time": "09:00 - 10:00 AM",
+            "subject": "Computer Networks & Security",
+            "room": "LT-201",
+            "faculty": "Prof. Vikram",
+            "type": "Lecture"
+          },
+          {
+            "time": "10:15 - 11:15 AM",
+            "subject": "Machine Learning & Neural Nets",
+            "room": "LT-203",
+            "faculty": "Dr. Sunita",
+            "type": "Lecture"
+          },
+          {
+            "time": "11:30 - 01:00 PM",
+            "subject": "Open Elective: Technical Writing",
+            "room": "LT-102",
+            "faculty": "Dr. Anita Roy",
+            "type": "Elective"
+          },
+          {
+            "time": "02:00 - 04:00 PM",
+            "subject": "Coding Club Hackathon Mentorship",
+            "room": "Innovation Center Hub",
+            "faculty": "Council",
+            "type": "Activity"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "time": "09:00 - 10:00 AM",
+            "subject": "Operating Systems Internals",
+            "room": "LT-204",
+            "faculty": "Dr. Saxena",
+            "type": "Lecture"
+          },
+          {
+            "time": "10:15 - 11:15 AM",
+            "subject": "Design & Analysis of Algorithms",
+            "room": "LT-201",
+            "faculty": "Dr. Raman",
+            "type": "Lecture"
+          },
+          {
+            "time": "11:30 - 01:00 PM",
+            "subject": "Computer Networks & Security",
+            "room": "LT-201",
+            "faculty": "Prof. Vikram",
+            "type": "Lecture"
+          },
+          {
+            "time": "02:30 - 04:30 PM",
+            "subject": "Sports & Physical Fitness",
+            "room": "University Stadium",
+            "faculty": "Coach Dev",
+            "type": "Sports"
+          }
+        ]
+      }
+    ],
+    "semestersRecord": [
+      {
+        "sem": "Sem 1",
+        "gpa": 8.4,
+        "credits": 24,
+        "status": "Passed First Class"
+      },
+      {
+        "sem": "Sem 2",
+        "gpa": 8.55,
+        "credits": 26,
+        "status": "Passed First Class"
+      },
+      {
+        "sem": "Sem 3",
+        "gpa": 8.7,
+        "credits": 24,
+        "status": "Passed Distinction"
+      },
+      {
+        "sem": "Sem 4",
+        "gpa": 8.62,
+        "credits": 25,
+        "status": "Passed Distinction"
+      },
+      {
+        "sem": "Sem 5",
+        "gpa": 8.9,
+        "credits": 25,
+        "status": "Passed Distinction"
+      },
+      {
+        "sem": "Sem 6",
+        "gpa": 8.74,
+        "credits": 24,
+        "status": "Current Ongoing (Midterms Passed)"
+      }
+    ]
+  },
+  "library": {
+    "borrowedBooks": [
+      {
+        "id": "lib-b1",
+        "title": "Introduction to Algorithms (CLRS 4th Edition)",
+        "accessionNo": "CSE-LIB-8842",
+        "issueDate": "2026-10-05",
+        "dueDate": "2026-10-26",
+        "daysRemaining": 4,
+        "fineAccumulated": 0,
+        "status": "Normal"
+      },
+      {
+        "id": "lib-b2",
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "accessionNo": "CSE-LIB-7319",
+        "issueDate": "2026-09-20",
+        "dueDate": "2026-10-15",
+        "daysRemaining": -7,
+        "fineAccumulated": 35,
+        "status": "Overdue"
+      }
+    ],
+    "catalog": [
+      {
+        "id": "cat-1",
+        "title": "Artificial Intelligence: A Modern Approach (Stuart Russell)",
+        "copiesAvailable": 3,
+        "floor": "2nd Floor - Rack 14B"
+      },
+      {
+        "id": "cat-2",
+        "title": "Computer Networking: A Top-Down Approach (Kurose & Ross)",
+        "copiesAvailable": 5,
+        "floor": "2nd Floor - Rack 09A"
+      },
+      {
+        "id": "cat-3",
+        "title": "Compilers: Principles, Techniques, and Tools (Dragon Book)",
+        "copiesAvailable": 2,
+        "floor": "2nd Floor - Rack 11C"
+      },
+      {
+        "id": "cat-4",
+        "title": "Design Patterns: Elements of Reusable Object-Oriented Software (GoF)",
+        "copiesAvailable": 4,
+        "floor": "3rd Floor - Rack 04D"
+      }
+    ]
+  },
+  "hostelMess": {
+    "roomInfo": {
+      "hostelName": "Aryabhatta Hall of Residence",
+      "roomNumber": "C-304",
+      "floor": "3rd Floor",
+      "roomType": "Non-AC Double Occupancy",
+      "amenities": [
+        "Attached Washroom",
+        "High-Speed WiFi (1Gbps)",
+        "Balcony Facing Campus Lawn",
+        "2 Study Desks & Bookracks"
+      ],
+      "warden": {
+        "name": "Prof. K. Venkatesh",
+        "contact": "+91 94441 55667",
+        "officeHours": "05:00 PM - 07:00 PM (Hostel Office)"
+      }
+    },
+    "todayMenu": {
+      "day": "Thursday",
+      "breakfast": "Masala Dosa, Sambar, Coconut Chutney, Boiled Eggs, Fresh Fruits, Tea/Coffee",
+      "lunch": "Paneer Butter Masala, Dal Tadka, Jeera Rice, Phulka Roti, Cucumber Raita, Gulab Jamun",
+      "snacks": "Samosa Chaat, Mint Sauce, Masala Chai, Filter Coffee",
+      "dinner": "Kadai Veg / Chicken Curry, Steamed Rice, Butter Naan, Mixed Salad, Hot Kheer"
+    },
+    "messRebateDaysAvailable": 6
+  },
+  "notices": [
+    {
+      "id": "not-1",
+      "title": "End-Semester Examination Time Table (Autumn 2026)",
+      "category": "Examinations",
+      "date": "2026-10-20",
+      "urgency": "High",
+      "content": "All B.Tech 6th Semester students are hereby notified that the Autumn End-Semester Theory examinations will commence from 24th November 2026. Hall tickets will be issued online from 10th November.",
+      "pdfLink": "#exam-timetable"
+    },
+    {
+      "id": "not-2",
+      "title": "Campus Placement Drive: Google, Microsoft & Adobe Registrations Open",
+      "category": "Placements",
+      "date": "2026-10-19",
+      "urgency": "Urgent",
+      "content": "Pre-placement talks and coding assessments for summer internships and final full-time placements start next Monday. Students with CGPA >= 7.5 and no active backlogs must verify their resume on the placement portal.",
+      "pdfLink": "#placement-drive"
+    },
+    {
+      "id": "not-3",
+      "title": "Transport Route 06 Maintenance & Temporary Diversion",
+      "category": "Transportation",
+      "date": "2026-10-18",
+      "urgency": "Medium",
+      "content": "Due to flyover expansion near City Center, Route 06 buses will halt at Metro Pillar 140 instead of the Market Stop until Friday.",
+      "pdfLink": "#bus-route"
+    },
+    {
+      "id": "not-4",
+      "title": "Annual Techno-Cultural Fest 'AURA TARANG 2026' Auditions",
+      "category": "Cultural & Sports",
+      "date": "2026-10-15",
+      "urgency": "Normal",
+      "content": "Auditions for Drama, Battle of Bands, Robotics Challenge, and UI/UX Design Hackathon start this weekend in the University Auditorium.",
+      "pdfLink": "#aura-tarang"
+    }
+  ],
+  "helpdeskTickets": [
+    {
+      "id": "TKT-AURA-4401",
+      "category": "Fee Department",
+      "subject": "Scholarship Concession Adjustment on Semester 6 Lab Fee",
+      "date": "2026-10-14",
+      "status": "In Progress",
+      "assignedTo": "Accounts Section (Mr. Bansal)",
+      "lastUpdate": "Application verified. Will reflect in next ledger update on Monday."
+    },
+    {
+      "id": "TKT-AURA-3921",
+      "category": "Transportation",
+      "subject": "Bus Pass QR verification issue at morning gate reader",
+      "date": "2026-09-12",
+      "status": "Resolved",
+      "assignedTo": "Transport Coordinator",
+      "lastUpdate": "Digital pass regenerated and barcode refreshed successfully."
+    }
+  ]
+}
